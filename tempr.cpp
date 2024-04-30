@@ -8,6 +8,8 @@ int main()
 	int temReading2;
 	int temReading3;
 	
+	int differece;
+	
 	return 0;
 
 }
